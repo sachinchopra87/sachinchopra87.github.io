@@ -1,0 +1,11 @@
+.jumbotron {
+  background-image: url(http://strastni.com/c/wonderful-wooden-desk-top-view-of-coffee-cup-on-dark-table-o-ideas-desk-top-936x585.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-family: 'Comfortaa', cursive;
+    color: black;
+  }
